@@ -1,0 +1,6 @@
+*.o
+*.stash
+*.user
+Makefile
+pcap-test
+tcp-port-80-test.gilgil.net.pcap
